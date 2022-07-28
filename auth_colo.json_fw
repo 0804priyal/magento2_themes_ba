@@ -1,0 +1,27 @@
+{
+    "http-basic": {
+        "composer.amasty.com": {
+            "username": "4eef0cc70b80d6d62c33eebcc414fc49",
+            "password": "a85042179df9831984c6018cfa1a28bd"
+        },
+        "repo.xtento.com": {
+            "username": "faBw7IWFCroCixq0TLWwxeMWzNbKlH9S",
+            "password": "cKqv6J4hO3G0ErgxUxJS8aceZ3YGxXG4"
+        },
+        "repo.magento.com": {
+            "username": "1792a8fc63b1bd1b1443d3ee0ab92dbc",
+            "password": "e231a42552634e5aca7de3f3e187a194"
+        },
+        "composer1.amasty.com": {
+            "username": "4eef0cc70b80d6d62c33eebcc414fc49",
+            "password": "a85042179df9831984c6018cfa1a28bd"
+        },
+        "composer2.amasty.com": {
+            "username": "4eef0cc70b80d6d62c33eebcc414fc49",
+            "password": "a85042179df9831984c6018cfa1a28bd"
+        }
+    },
+    "github-oauth": {
+        "github.com": "52471e4a4aa67cb2e611c88a30214ca33b7b3a3c"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "http-basic": {
+        "repo.magento.com": {
+            "username": "ee74911b7f3a86c8c2ec0ad44e89698c",
+            "password": "297a7ab89bd5a3d1ef98a23eb717b16c"
+        },
+        "composer.amasty.com": {
+            "username": "7810958af05e74ce798e7248b0fff49c",
+            "password": "d02aa3bb93fd57a53f48d1ef5ba62ea8"
+        }
+    }
+}
